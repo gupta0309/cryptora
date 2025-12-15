@@ -390,6 +390,8 @@ const BannerOne: React.FC = () => {
                   </div>
                 </div>
               </div>
+              <br></br>
+              <br></br>
               <div className='col-lg-6'>
                 <div
                   className='d-lg-block d-none text-end'

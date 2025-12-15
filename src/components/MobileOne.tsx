@@ -9,7 +9,7 @@ const MobileOne: React.FC = () => {
             <Image
               width={636}
               height={579}
-              src='/assets/images/thumbs/mobile-app-three-img-1.png'
+              src='/assets/images/thumbs/mobile.jpg'
               alt='Image'
               data-aos='zoom-in'
               data-aos-duration={1500}

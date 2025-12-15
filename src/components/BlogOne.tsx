@@ -115,7 +115,7 @@ const BlogOne: React.FC = () => {
                 <Image
                   width={264}
                   height={302}
-                  src='/assets/images/thumbs/articles-img2.png'
+                  src='/assets/images/thumbs/trading.jpg'
                   alt='Image'
                   className='articles-img tw-mb-4 max-w-256 h-100 bg-img'
                 />
@@ -162,7 +162,7 @@ const BlogOne: React.FC = () => {
                 <Image
                   width={264}
                   height={302}
-                  src='/assets/images/thumbs/articles-img3.png'
+                  src='/assets/images/thumbs/marketplace.jpg'
                   alt='Image'
                   className='articles-img tw-mb-4 max-w-256 h-100 bg-img'
                 />
@@ -186,7 +186,7 @@ const BlogOne: React.FC = () => {
                     </span>
                   </div>
                   <h4 className='fw-normal tw-mb-3 text-dark-600 cursor-big line-clamp-2'>
-                    All-in-One Solutions for Marketplacesde
+                    All-in-One Solutions for Marketplace
                   </h4>
                   <p className='fw-normal tw-text-lg text-dark-500 tw-mb-8'>
                   Build scalable marketplaces that support multiple vendors, product listings, order management, and real-time transactions.
