@@ -89,18 +89,18 @@ const MobileSectionOne: React.FC = () => {
                 </div>
               </div>
               <div className='d-flex align-items-center tw-gap-3 flex-wrap'>
-                <Image
+                <img
                   width={135}
                   height={44}
-                  src='/assets/images/logo/mobile-img1.png'
+                  src={'https://react.payone.wowtheme7.com/assets/images/logo/mobile-img1.png'}
                   alt='Image'
                   data-aos='zoom-out-right'
                   data-aos-duration={800}
                 />
-                <Image
+                <img
                   width={135}
                   height={44}
-                  src='/assets/images/logo/mobile-img2.png'
+                  src={"https://react.payone.wowtheme7.com/assets/images/logo/mobile-img2.png"}
                   alt='Image'
                   data-aos='zoom-out-left'
                   data-aos-duration={800}

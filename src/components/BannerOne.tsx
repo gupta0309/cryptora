@@ -297,20 +297,20 @@ const BannerOne: React.FC = () => {
   return (
     <>
       <section className='pt-120 bg-#ffffff z-1 position-relative overflow-hidden text-black'>
-        <Image
+        {/* <Image
           src='/assets/images/shape/banner-scroll-img1.png'
           width={54}
           height={325}
           alt='img'
           className='position-absolute inset-block-end-80px inset-inline-start-7-persent d-lg-block d-none animation-moveTopBottom__two'
-        />
-        <Image
+        /> */}
+        {/* <Image
           src='/assets/images/shape/circle-shape-img1.png'
           width={55}
           height={53}
           alt='img'
           className='position-absolute inset-block-start-79px inset-inline-start-7-persent d-lg-block d-none animation-rotation__two'
-        />
+        /> */}
         <div className='container'>
           <div className='position-relative'>
             <div className='row flex-wrap gy-4'>
@@ -322,12 +322,12 @@ const BannerOne: React.FC = () => {
                       data-aos='fade-up'
                       data-aos-duration={800}
                     >
-                      <Image
+                      {/* <Image
                         src='/assets/images/icon/star-icon1.png'
                         alt='star'
                         width={30}
                         height={30}
-                      />
+                      /> */}
                       <span className='fw-normal tw-text-xl text-#000000-10 cursor-big'>
                         EASY PAYMENT
                       </span>
@@ -341,13 +341,13 @@ const BannerOne: React.FC = () => {
                         {/* Fast, Secure, &amp; Easy Transactions. */}
                         Cryptora Gateway The Future of Crypto, Simplified
                       </h2>
-                      <Image
+                      {/* <Image
                         src='/assets/images/shape/line-shape1.png'
                         width={413}
                         height={20}
                         alt='Image'
                         className='banner-shape-one position-absolute max-w-411-px z-n1 inset-block-start-62px inset-inline-end--30px d-lg-block d-none'
-                      />
+                      /> */}
                     </div>
                     <p
                       className='banner-item-text text-black fw-normal tw-text-xl line-clamp-2'
@@ -411,26 +411,26 @@ const BannerOne: React.FC = () => {
             <div className='banner-item'>
               <div className='bg-white tw-py-5 tw-px-5 rounded-3 d-inline-flex align-items-center tw-gap-3 position-absolute inset-block-start-70-persent inset-inline-start-42-persent z-1 max-w-263 animation-Updowm__two'>
                 <div className='d-flex align-items-center '>
-                  <Image
+                  {/* <Image
                     src='/assets/images/thumbs/banner-img4.png'
                     alt='img'
                     width={48}
                     height={49}
-                  />
-                  <Image
+                  /> */}
+                  {/* <Image
                     src='/assets/images/thumbs/banner-img3.png'
                     width={48}
                     height={49}
                     alt='img'
                     className='margin-left--16px'
-                  />
-                  <Image
+                  /> */}
+                  {/* <Image
                     src='/assets/images/thumbs/banner-img2.png'
                     width={48}
                     height={49}
                     alt='img'
                     className='margin-left--16px'
-                  />
+                  /> */}
                 </div>
                 <div>
                   <h4 className='fw-normal tw-text-6 counter'>
@@ -443,7 +443,7 @@ const BannerOne: React.FC = () => {
                 </div>
               </div>
             </div>
-            <Image
+            {/* <Image
               src='/assets/images/shape/banner-shape-1.png'
               width={36}
               height={54}
@@ -463,7 +463,7 @@ const BannerOne: React.FC = () => {
               height={78}
               alt='img'
               className='banner-shape-two position-absolute inset-inline-end--120px inset-block-end-120px z-n1 d-lg-block d-none animation-rotation__two'
-            />
+            /> */}
             <div className='banner-shape-five bg-white tw-py-5 tw-px-6 rounded-3 max-w-261 position-absolute inset-block-start-50px inset-inline-end--120px d-lg-block d-none z-1 animation-Updowm__two'>
               <span className='tw-text-lg fw-semibold text-dark-600 tw-mb-3'>
                 Payment Received

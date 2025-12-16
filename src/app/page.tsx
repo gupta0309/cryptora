@@ -19,7 +19,7 @@ import FooterOne from "@/components/FooterOne";
 
 export const generateMetadata = async (): Promise<Metadata> => {
   return {
-    title: "Home | PayOne Money Exchange Next JS Template",
+    title: "Home| PayOne Money Exchange Next JS Template",
     description:
       "PayOne is a professional Next JS Template for online money exchange, remittance, and digital payment services. Clean design, responsive layout, and modern UI components included.",
     openGraph: {
@@ -80,7 +80,7 @@ export default function Home() {
       <FAQOne />
 
       {/* PaymentMethodOne */}
-      <PaymentMethodOne />
+      {/* <PaymentMethodOne /> */}
 
       {/* BlogOne */}
       <BlogOne />

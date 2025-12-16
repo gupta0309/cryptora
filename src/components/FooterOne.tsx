@@ -77,7 +77,7 @@ const FooterOne: React.FC = () => {
                 <ul>
                   <li className='tw-mb-4'>
                     <Link
-                      href='/about-us'
+                      href='#'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
                       About Us
@@ -93,7 +93,7 @@ const FooterOne: React.FC = () => {
                   </li>
                   <li className='tw-mb-4'>
                     <Link
-                      href='/faq'
+                      href='#'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
                       Faqs

@@ -1,4 +1,4 @@
-import img from "next/img";
+// import img from "next/img";
 
 
 

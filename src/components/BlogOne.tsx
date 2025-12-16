@@ -64,7 +64,7 @@ const BlogOne: React.FC = () => {
                 <Image
                   width={588}
                   height={321}
-                  src='/assets/images/thumbs/articles-img1.png'
+                  src='/assets/images/thumbs/token.jpg'
                   alt='Image'
                   className='w-100 h-100'
                 />
