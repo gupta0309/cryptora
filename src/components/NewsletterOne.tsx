@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import Link from "next/link";
 
 const NewsletterOne: React.FC = () => {
@@ -31,7 +31,7 @@ const NewsletterOne: React.FC = () => {
               </div>
               <div className='d-flex align-items-center tw-gap-6 flex-wrap'>
                 <div className='d-flex align-items-center'>
-                  <Image
+                  {/* <Image
                     width={60}
                     height={60}
                     src='/assets/images/thumbs/newsletter-img1.png'
@@ -44,7 +44,7 @@ const NewsletterOne: React.FC = () => {
                     src='/assets/images/thumbs/newsletter-img2.png'
                     alt='Image'
                     className='margin-inline-start--20px flex-shrink-0'
-                  />
+                  /> */}
                   <span className='bg-main-600 w-15 h-15 rounded-circle text-dark-600 d-flex align-items-center justify-content-center border-white margin-inline-start--20px flex-shrink-0'>
                     +15K
                   </span>
